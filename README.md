@@ -9,6 +9,7 @@ Welcome to the **Flutter Scientific Calculator**, a powerful and user-friendly c
 - **Unit Conversion**: Easily convert between units of measurement such as weight, data and time.
 - **User-Friendly Interface**: Intuitive design with a smooth and responsive user experience.
 - **Cross-Platform**: Built with Flutter for a consistent experience on iOS and Android.
+- **Themes**: The application have dark and light mode feature.
 
 ## 🚀 Getting Started
 
@@ -20,5 +21,15 @@ Welcome to the **Flutter Scientific Calculator**, a powerful and user-friendly c
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/flutter-scientific-calculator.git
+   git clone https://github.com/stahiomar/scientific-calculator.git
    cd flutter-scientific-calculator
+
+2. **Install Dependencies**
+   ```bash
+   flutter pub get
+   
+4. **Run the App**
+   ```bash
+   flutter run
+
+![image](https://github.com/user-attachments/assets/4895f29d-e985-4bb9-80e5-11ea5fc76a7b)
