@@ -32,4 +32,7 @@ Welcome to the **Flutter Scientific Calculator**, a powerful and user-friendly c
    ```bash
    flutter run
 
+**Calculator interface**
 ![image](https://github.com/user-attachments/assets/4895f29d-e985-4bb9-80e5-11ea5fc76a7b)
+
+![image](https://github.com/user-attachments/assets/7f381268-e959-49ff-a550-90e54924cad4)
